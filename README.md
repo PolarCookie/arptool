@@ -1,16 +1,3 @@
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;}
-.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;}
-.tg .tg-s6z2{text-align:center}
-.tg .tg-g902{color:#333333;text-align:center}
-.tg .tg-h0x1{text-align:center}
-.tg .tg-ilun{color:#333333;text-align:center}
-.tg .tg-0ord{text-align:right}
-.tg .tg-pror{color:#333333;text-align:right}
-.tg .tg-zmy4{text-align:right}
-.tg .tg-kfbs{color:#333333;text-align:right}
-</style>
 <table>
   <tr>
     <th>Armor<br></th>
