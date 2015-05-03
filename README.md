@@ -1,4 +1,4 @@
  Armor | 6200 | 7700 
---------| -----|------
- increase | absolute | relative 
+--------| --|--|---|---
+ increase | absolute | relative | absolute | relative
  
