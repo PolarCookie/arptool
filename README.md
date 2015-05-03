@@ -19,30 +19,30 @@
   </tr>
   <tr>
     <td></td>
-    <td>rel<br></td>
-    <td>abs<br></td>
-    <td>rel<br></td>
-    <td>abs</td>
+    <td style="text-align:center">rel<br></td>
+    <td style="text-align:center">abs<br></td>
+    <td style="text-align:center">rel<br></td>
+    <td style="text-align:center">abs</td>
   </tr>
   <tr>
     <td>5xSunder</td>
-    <td>18.36%</td>
-    <td>18.36%</td>
-    <td>16.6%</td>
-    <td>16.6%</td>
+    <td style="text-align:right">18.36%</td>
+    <td style="text-align:right">18.36%</td>
+    <td style="text-align:right">16.6%</td>
+    <td style="text-align:right">16.6%</td>
   </tr>
   <tr>
     <td>Fearie Fire<br></td>
-    <td>4.5%</td>
-    <td>23.7%</td>
-    <td>4.1%<br></td>
-    <td>21.3%<br></td>
+    <td style="text-align:right">4.5%</td>
+    <td style="text-align:right">23.7%</td>
+    <td style="text-align:right">4.1%<br></td>
+    <td style="text-align:right">21.3%<br></td>
   </tr>
   <tr>
     <td>CoR</td>
-    <td>6.28%</td>
-    <td>31.46%</td>
-    <td>4.23%</td>
-    <td>26.46%</td>
+    <td style="text-align:right">6.28%</td>
+    <td style="text-align:right">31.46%</td>
+    <td style="text-align:right">4.23%</td>
+    <td style="text-align:right">26.46%</td>
   </tr>
 </table>
