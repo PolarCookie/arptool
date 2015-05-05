@@ -4,7 +4,8 @@ Given the non-linear nature of armor damage reduction, X arp will mean different
 tldr: the soft cap of item arp is 1390.<br>
 This is when a boss with 6200 armor has none left after all debuffs, executioner and item arp has been applied.
 At this point you will do 58.73% more damage against a 6200 boss and 51.42% more against a 7700 boss, compared to no arp at all.<br>
-For reference, this is (kinda) the same as stacking 100% crit chance.
+For reference, this is (kinda) the same as stacking 100% crit chance. <br>
+Note: stacking for the arp soft cap will give a relative 13.17% and 11.53% damage increase on 6200 and 7700 bosses respectivly, compared to just using debuffs+executioner.
 
 Terminology:</br>
 Absolute: your damage increase compared to no arp.</br>
@@ -87,6 +88,32 @@ Ex. you win Stormrage Signet Ring (http://db.hellground.net/?item=32497, 126 arp
 		<td style="text-align:right">37.05%</td>
 	</tr>
 </table>
+
+The total benefit of item arp
+<table>
+	<tr>
+		<th colspan="2">Armor<br></th>
+		<th colspan="2">6200</th>
+		<th colspan="2">7700</th>
+	</tr>
+	<tr>
+		<td>comment</td>
+		<td>cumulative arp</td>
+		<td style="text-align:center">rel<br></td>
+		<td style="text-align:center">abs<br></td>
+		<td style="text-align:center">rel<br></td>
+		<td style="text-align:center">abs</td>
+	</tr>
+	<tr>
+		<td>1390 item arp + all debuffs + executioner</td>
+		<td>6200</td>
+		<td style="text-align:right">13.17%</td>
+		<td style="text-align:right">58.73%</td>
+		<td style="text-align:right">11.53%</td>
+		<td style="text-align:right">51.42%</td>
+	</tr>
+</table>
+
 
 
 For completeness; the numbers on expose armor.
