@@ -62,7 +62,7 @@ Relative: given all arp; your damage increase by adding X new arp.</br>
 	</tr>
 </table>
 
-Say we won Stormrage Signet Ring (http://db.hellground.net/?item=32497, 126 arp), how much benefit does it give us?
+Ex. you win Stormrage Signet Ring (http://db.hellground.net/?item=32497, 126 arp) one day, how much benefit does it give you?
 <table>
 	<tr>
 		<th colspan="2">Armor<br></th>
@@ -89,7 +89,7 @@ Say we won Stormrage Signet Ring (http://db.hellground.net/?item=32497, 126 arp)
 
 
 For completeness; the numbers on expose armor.
-Here we assume 2/2 improved expose armor and that it replaced 5xsunder, giving it a arp of 475.
+Here we assume 2/2 improved expose armor and that it replaced 5xsunder, giving it an arp of 475.
 
 <table>
 	<tr>
