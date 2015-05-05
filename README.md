@@ -2,8 +2,8 @@ This tool is to help calculate the benefits of arp.
 Given the non-linear nature of armor damage reduction, X arp will mean different things at 0 arp and 4810 arp (all basic debuffs and executioner applied).
 
 tldr: the soft cap of item arp is 1390.<br>
-This is when a boss with 6200 armor has none left after all debuffs, executioner and item arp has been applied.
-At this point you will do 58.73% more damage against a 6200 boss and 51.42% more against a 7700 boss.
+This is when a boss with 6200 armor has none left after all debuffs, executioner and item arp has been applied.<br>
+At this point you will do 58.73% more damage against a 6200 boss and 51.42% more against a 7700 boss.<br>
 For reference, this is (kinda) the same as stacking 100% crit chance.
 
 Terminology:</br>
