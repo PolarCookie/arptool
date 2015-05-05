@@ -62,8 +62,7 @@ Relative: given all arp; your damage increase by adding X new arp.</br>
 	</tr>
 </table>
 
-
-http://db.hellground.net/?item=32497
+Say we won Stormrage Signet Ring (http://db.hellground.net/?item=32497, 126 arp), how much benefit does it give us?
 <table>
 	<tr>
 		<th colspan="2">Armor<br></th>
