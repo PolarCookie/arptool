@@ -73,7 +73,7 @@ http://db.hellground.net/?item=32497
 	</tr>
 	<tr>
 		<td>all debuffs + executioner</td>
-		<td>4810</td>
+		<td>4936</td>
 		<td style="text-align:right">01.07%</td>
 		<td style="text-align:right">41.75%</td>
 		<td style="text-align:right">00.95%</td>
@@ -82,7 +82,7 @@ http://db.hellground.net/?item=32497
 </table>
 
 
-For completeness; the numbers on expose armor
+For completeness; the numbers on expose armor.
 Here we assume 2/2 improved expose armor and that it replaced 5xsunder, giving it a arp of 475.
 
 <table>
