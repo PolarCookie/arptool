@@ -55,7 +55,7 @@ Relative: given all arp; your damage increase by adding X new arp
   </tr>
 
   <tr>
-    <td>Expose Armor<sup>[1](#exposearmorfootnote)</sup></td>
+    <td>Expose Armor [^1] </td>
 	<td>475</td>
 	<td>5285</td>
     <td style="text-align:right">04.14%</td>
@@ -63,9 +63,8 @@ Relative: given all arp; your damage increase by adding X new arp
     <td style="text-align:right">03.66%</td>
     <td style="text-align:right">40.74%</td>
   </tr>
-
-<a name="exposearmorfootnote">1</a>: Footnote content goes here
 </table>
+[^1]: Footnote content goes here
 
 Adding on personal arp
 <table>
