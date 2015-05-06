@@ -188,5 +188,5 @@ Here we assume 2/2 improved expose armor and that it replaced 5xsunder, giving i
 
 ---
 Conclusion: arp is important, arp debuffs are very important.<br>
-The one time I did Magtheridon on hellground, I, the prot war, was stuck at a cube and we had a paladin tank him. However there was a blue geared arms warrior with us. He did not apply sunders, none of the other warriors applied sunders either but this guy was obviously bottom of recount.<br>
+The one time I did Magtheridon on hellground I, the prot war, was stuck at a cube and we had a paladin tank him. However there was a blue geared arms warrior with us. He did not apply sunders, none of the other warriors applied sunders either but this guy was obviously bottom of recount.<br>
 He should have applied sunders, is all i'm saying.
