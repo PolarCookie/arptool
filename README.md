@@ -4,7 +4,7 @@ Open this tool with geogebra (http://www.geogebra.org/)
 To learn more about the math behind read these two sources: <br>
 http://www.wowwiki.com/Armor <br>
 http://forums.elitistjerks.com/topic/22516-dps-compendium/ <br>
-(this link also has a link over all armor values for all bosses in T5 and T6)
+(this link also has a list over all armor values for all bosses in T5 and T6)
 
 This tool is to help calculate the benefits of arp.
 Given the non-linear nature of armor damage reduction, X arp will mean different things at 0 arp and 4810 arp (all basic debuffs and executioner applied).
