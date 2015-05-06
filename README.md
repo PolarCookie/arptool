@@ -182,4 +182,3 @@ Here we assume 2/2 improved expose armor and that it replaced 5xsunder, giving i
 Conclusion: arp is important, arp debuffs are very important.
 The one time I did magtheridon on hellground, I, the prot war, was stuck at a cube and we had a paladin tank him. However there was a blue geared arms warrior with us. He did not apply sunders, none of the other warriors applied sunders either but this guy was obviously bottom of recount.<br>
 He should have applied sunders, all i'm saying.
-PS: the 1 arms warrior you take with you in 25 man raids for blood frenzy should go 5/5 IDS, because that ~6% damage increase from curse of recklessness.
