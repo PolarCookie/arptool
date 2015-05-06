@@ -17,7 +17,7 @@ Note: reaching the arp soft cap will give a relative 13.17% and 11.53% damage in
 
 Terminology:</br>
 Absolute: your damage increase compared to no arp.</br>
-Relative: given all arp; your damage increase by adding X new arp.</br>
+Relative: given the current arp; your damage increase by adding X new arp.</br>
 
 <table>
 	<tr>
