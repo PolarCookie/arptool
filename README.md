@@ -1,3 +1,6 @@
+Open this tool with geogebra (http://www.geogebra.org/)
+
+
 This tool is to help calculate the benefits of arp.
 Given the non-linear nature of armor damage reduction, X arp will mean different things at 0 arp and 4810 arp (all basic debuffs and executioner applied).
 
