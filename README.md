@@ -5,7 +5,7 @@ tldr: the soft cap of item arp is 1390.<br>
 This is when a boss with 6200 armor has none left after all debuffs, executioner and item arp has been applied.
 At this point you will do 58.73% more damage against a 6200 boss and 51.42% more against a 7700 boss, compared to no arp at all.<br>
 For reference, this is (kinda) the same as stacking 100% crit chance. <br>
-Note: stacking for the arp soft cap will give a relative 13.17% and 11.53% damage increase on 6200 and 7700 bosses respectivly, compared to just using debuffs+executioner.
+Note: stacking for the arp soft cap will give a relative 13.17% and 11.53% damage increase on 6200 and 7700 bosses respectively, compared to just using debuffs+executioner.
 
 Terminology:</br>
 Absolute: your damage increase compared to no arp.</br>
@@ -105,12 +105,20 @@ The total benefit of item arp
 		<td style="text-align:center">abs</td>
 	</tr>
 	<tr>
-		<td>1390 item arp + all debuffs + executioner</td>
+		<td>all debuffs + executioner</td>
 		<td>6200</td>
 		<td style="text-align:right">13.17%</td>
 		<td style="text-align:right">58.73%</td>
 		<td style="text-align:right">11.53%</td>
 		<td style="text-align:right">51.42%</td>
+	</tr>
+	<tr>
+		<td>all debuffs + executioner</td>
+		<td>7700</td>
+		<td style="text-align:right">13.17%</td>
+		<td style="text-align:right">58.73%</td>
+		<td style="text-align:right">27.37%</td>
+		<td style="text-align:right">72.93%</td>
 	</tr>
 </table>
 
@@ -168,5 +176,10 @@ Here we assume 2/2 improved expose armor and that it replaced 5xsunder, giving i
 		<td style="text-align:right">04.50%</td>
 		<td style="text-align:right">72.93%</td>
 	</tr>
-
 </table>
+
+
+Conclusion: arp is important, arp debuffs are very important.
+The one time I did magtheridon on hellground, I, the prot war, was stuck at a cube and we had a paladin tank him. However there was a blue geared arms warrior with us. He did not apply sunders, none of the other warriors applied sunders either but this guy was obviously bottom of recount.<br>
+He should have applied sunders, all i'm saying.
+PS: the 1 arms warrior you take with you in 25 man raids for blood frenzy should go 5/5 IDS, because that ~6% damage increase from curse of recklessness.
