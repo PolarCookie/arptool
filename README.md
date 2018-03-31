@@ -74,7 +74,7 @@ Relative: given the current arp; your damage increase by adding X new arp.</br>
 Ex. you win Stormrage Signet Ring (http://db.hellground.net/?item=32497, 126 arp) one day, how much benefit does the arp give you?
 <table>
 	<tr>
-		<th colspan="3">Armor<br></th>
+		<th colspan="2">Armor<br></th>
 		<th colspan="2">6200</th>
 		<th colspan="2">7700</th>
 	</tr>
@@ -148,7 +148,6 @@ Here we assume 2/2 improved expose armor and that it replaced 5xsunder, giving i
 		<td style="text-align:center">rel<br></td>
 		<td style="text-align:center">abs</td>
 	</tr>
-
 	<tr>
 		<td>all debuffs</td>
 		<td>4485</td>
