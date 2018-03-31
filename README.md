@@ -164,18 +164,16 @@ Here we assume 2/2 improved expose armor and that it replaced 5xsunder, giving i
 		<td style="text-align:right">03.66%</td>
 		<td style="text-align:right">40.74%</td>
 	</tr>
-
 	<tr>
-		<td>the last 475 arp for a 6200 boss</td>
+		<td>last 475 arp for a 6200 boss</td>
 		<td>6200</td>
 		<td style="text-align:right">04.50%</td>
 		<td style="text-align:right">58.73%</td>
 		<td style="text-align:right">03.94%</td>
 		<td style="text-align:right">51.42%</td>
 	</tr>
-
 	<tr>
-		<td>the last 475 arp for a 7700 boss</td>
+		<td>last 475 arp for a 7700 boss</td>
 		<td>7700</td>
 		<td style="text-align:right">00.00%</td>
 		<td style="text-align:right">58.73%</td>
